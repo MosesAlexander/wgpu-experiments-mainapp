@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 experiments = {path = "../experiments" }
+pollster = "0.3.0"
